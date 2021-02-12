@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning how to make a Discord bot
 - 💞️ I’m not looking to collaborate
 - 📫 How to reach me - @TeCeP#7222 on Discord
+- 🌎 I live in Poland
 
 <!---
 tecep2137/tecep2137 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
