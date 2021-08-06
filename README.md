@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @tecep2137
-- 👀 I’m interested in website development
-- 🌱 I’m currently learning how to make a Discord bot
+- 👋 Hi, I’m @JoeRosol
+- 🌱 I’m currently learning how to code in java
 - 💞️ I’m not looking to collaborate
 - 📫 How to reach me - @TeCeP#7222 on Discord
 - 🌎 I live in Poland
