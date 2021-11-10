@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoeRosol
-- 🌱 I’m currently learning how to code in java
+- 🌱 I’m currently learning new languages
 - 💔 I’m not looking to collaborate
-- 📫 How to reach me - @TeCeP#7222 on Discord
+- 📫 How to reach me - @mrrosol#7222 on Discord
 - 🌎 I live in Kielce, Poland
 
 <!---
